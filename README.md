@@ -987,4 +987,4 @@ sbatch script.sh              # Submit job
 squeue -u $USER              # Check your jobs
 scancel jobid                # Cancel job
 sinfo                        # Check available resources
-seff jobid                   #
+seff jobid                   # provides statistics related to the efficiency of resource usage by the completed job
